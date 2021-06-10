@@ -10,10 +10,10 @@
 
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning GCP
-- 👯 I’m looking to collaborate on any fun Data Science projects
+🌱 I’m currently learning GCP<br>
+👯 I’m looking to collaborate on any fun Data Science projects<br>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: -->
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I love foods, corgis, and San Diego 
+😄 Pronouns: She/Her/Hers<br>
+⚡ Fun fact: I love foods, corgis, and San Diego 
