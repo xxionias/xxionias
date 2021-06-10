@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://xxionias.github.io/myportfolio/"><img src="images/header.jpg" alt="My Memory in Miami"></a>
+  <a href="https://xxionias.github.io/myportfolio/"><img src="images/header.JPG" alt="My Memory in Miami"></a>
 
   <br>
   
